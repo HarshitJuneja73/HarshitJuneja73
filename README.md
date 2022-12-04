@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HarshitJuneja73
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on college club projects
 - 📫 How to reach me: Lel#6919 on Discord
 
