@@ -1,4 +1,4 @@
-<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/junejah24?theme=wtf&font=Content&ext=heatmap) -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/junejah24?theme=wtf&font=Content&ext=heatmap) 
 - 👋 Hi, I’m @HarshitJuneja73
 - 👀 I’m interested in Machine Learning
 - 💞️ I’m looking to collaborate on college club projects
